@@ -595,7 +595,7 @@ hi! link Keyword GruvboxRed
 " Variable name
 hi! link Identifier GruvboxBlue
 " Function name
-hi! link Function GruvboxGreenBold
+hi! link Function GruvboxBlue
 
 " Generic preprocessor
 hi! link PreProc GruvboxAqua
